@@ -5,10 +5,9 @@ import java.awt.image.BufferedImage;
 public class Assets {
 	
 	public static BufferedImage BOARD;
-	public static BufferedImage BLACK_ROOK, WHITE_ROOK, 
-								BLACK_BISHOP, WHITE_BISHOP, WHITE_KING,
-								WHITE_QUEEN, BLACK_KING, BLACK_QUEEN,
-								BLACK_KNIGHT, WHITE_KNIGHT,WHITE_PAWN, BLACK_PAWN;
+	public static BufferedImage BLACK_ROOK, WHITE_ROOK, BLACK_BISHOP, WHITE_BISHOP, WHITE_KING, 
+				    WHITE_QUEEN, BLACK_KING, BLACK_QUEEN, BLACK_KNIGHT,
+				    WHITE_KNIGHT,WHITE_PAWN, BLACK_PAWN;
 	
 	public static void init() {
 	
